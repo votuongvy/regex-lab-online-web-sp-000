@@ -22,6 +22,8 @@ def first_word_capitalized_and_ends_with_punctuation?(text)
   end
 end
 
+
+
 def valid_phone_number?(phone)
   #/[o-9]{10}/
 end
